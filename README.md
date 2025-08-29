@@ -28,3 +28,17 @@ No backend or database is connected – this is a **frontend-only demo project**
 
 ## 📂 Project Structure  
 
+student-registration-form/
+│── index.html        # Main project file (HTML, CSS, and JS in one place)  
+│── README.md         # Project documentation  
+│── images/           # Folder for images and icons  
+    └── logo.png      # College logo used in the form  
+
+
+##links 
+## 📂 Project Structure  
+
+- [index.html](./index.html) → Main project file (contains HTML, CSS, and JavaScript)  
+- [README.md](./README.md) → Documentation file  
+- [images/logo.png](./images/logo.png) → College logo used in the form  
+
