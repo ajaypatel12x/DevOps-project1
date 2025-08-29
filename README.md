@@ -38,7 +38,10 @@ student-registration-form/
 ##links 
 ## 📂 Project Structure  
 
-- [index.html](./index.html) → Main project file (contains HTML, CSS, and JavaScript)  
+## 📂 Project Structure  
+
+- [index.html](./src/index.html) → Main project file (contains HTML, CSS, and JavaScript)  
 - [README.md](./README.md) → Documentation file  
 - [images/logo.png](./images/logo.png) → College logo used in the form  
+
 
