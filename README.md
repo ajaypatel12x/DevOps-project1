@@ -40,7 +40,7 @@ student-registration-form/
 
 - [registrationform.html](./registrationform.html) → Main project file (contains HTML, CSS, and JavaScript)  
 - [README.md](./README.md) → Documentation file  
-- [images/logo.png](./images/logo.png) → College logo used in the form  
+
  
 
 
