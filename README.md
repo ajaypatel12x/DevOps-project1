@@ -1,4 +1,4 @@
-# DevOps-project1
+# jenkins project
 
 # 📋 Student Registration Form – AEC Engineering College  
 
